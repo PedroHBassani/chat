@@ -1,4 +1,4 @@
-# SepaUtils
+# Chat
 
 ## Dependências
 
